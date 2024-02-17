@@ -40,7 +40,7 @@ print("BFS order is: ")
 bfs(visited,'2',graph) 
 ```
 ### Output:
-![image](https://github.com/Kirthi-Niharika/AI_Lab_2023-24/assets/114135005/1b3a2ee9-e742-4bfd-807a-e6a775fc9cc8)
+<img width="481" alt="Screenshot 2024-02-17 110514" src="https://github.com/Kirthi-Niharika/AI_Lab_2023-24/assets/114135005/713ba24d-1013-4a31-b10b-da273a317caa">
 
 ### Result:
 Thus the breadth first search order was found sucessfully.
