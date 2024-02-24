@@ -14,6 +14,7 @@ Write a Alpha beta pruning algorithm to find the optimal value of MAX Player fro
 8.  Print the best value of Max player.
 9.  Stop the program. 
 
+
 ### Program:
 ```
 # Initial values of Alpha and Beta
@@ -51,6 +52,8 @@ def minimax(depth, nodeIndex, maximizingPlayer,values, alpha, beta):
 values = [3, 5, 6, 9, 1, 2, 0, -1] 
 print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 ```
+
+
 ### Output:
 ![image](https://github.com/Kirthi-Niharika/AI_Lab_2023-24/assets/114135005/0f0bfbbf-c56c-4ca6-9575-dbdbbc6c2070)
 ### Result:
