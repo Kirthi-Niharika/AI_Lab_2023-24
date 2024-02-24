@@ -26,6 +26,7 @@ def minimax(depth, nodeIndex, maximizingPlayer,values, alpha, beta):
     # leaf node is reached
     if depth == 3:
         return values[nodeIndex]
+
     if maximizingPlayer:
         best = MIN
         # Recur for left and right children
@@ -37,6 +38,7 @@ def minimax(depth, nodeIndex, maximizingPlayer,values, alpha, beta):
             if beta <= alpha:
                 break
         return best
+
     else:
         best = MAX
         # Recur for left and
@@ -49,10 +51,10 @@ def minimax(depth, nodeIndex, maximizingPlayer,values, alpha, beta):
             if beta <= alpha:
                 break
         return best
-values = [3, 5, 6, 9, 1, 2, 0, -1] 
+values = [3, 5, 6, 9, 1, 2, 0, -1]
+
 print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 ```
-
 
 ### Output:
 ![image](https://github.com/Kirthi-Niharika/AI_Lab_2023-24/assets/114135005/0f0bfbbf-c56c-4ca6-9575-dbdbbc6c2070)
