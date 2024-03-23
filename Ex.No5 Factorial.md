@@ -1,5 +1,5 @@
 # Ex.No: 5   Logic Programming – Factorial of number   
-### DATE:23/03/2023                                                                            
+### DATE:23/03/2024                                                                        
 ### REGISTER NUMBER : T Kirthi Niharika
 ### AIM: 
 To  write  a logic program for finding the factorial of given number using SWI-PROLOG. 
