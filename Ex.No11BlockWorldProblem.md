@@ -54,7 +54,7 @@ Step 10 : Obtain the plan for given problem.<br>
    (:goal (and (on a b))))
 ```
 ### Output/Plan:
-![image](https://github.com/Kirthi-Niharika/AI_Lab_2023-24/assets/114135005/62cd5b5f-a996-4b35-a95a-80ab39b7b469)
+![image](https://github.com/Kirthi-Niharika/AI_Lab_2023-24/assets/114135005/e880f3f4-6a68-4071-acf3-c3addcfb6e72)
 
 ### Result:
 Thus the plan was found for the initial and goal state of block world problem.
