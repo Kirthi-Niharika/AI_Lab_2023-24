@@ -56,7 +56,7 @@ app.launch(share=True)
 ```
 
 ### Output:
-
+![image](https://github.com/Kirthi-Niharika/AI_Lab_2023-24/assets/114135005/3b0278e6-d677-4780-8156-354d3bd43fb9)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
